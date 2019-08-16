@@ -26,14 +26,14 @@
 <!-- Standard Operating Procedures -->
 <div>
 <h2 style="color: #0B5394; font-family: Times New Roman">👨‍💻 Standard Operating Procedures</h2>
-🍭 <a href="">Graphics Team → </a>
+🍭 <a href="https://github.com/developer-student-club-uet/documentation/blob/master/SOPs/graphics_team.md">Graphics Team → </a>
 <br>
- 📈 <a href="">Marketing Team →</a>
+ 📈 <a href="https://github.com/developer-student-club-uet/documentation/blob/master/SOPs/marketing_team.md">Marketing Team →</a>
 <br>
-✍ <a href="">Publication Team →</a>
+✍ <a href="https://github.com/developer-student-club-uet/documentation/blob/master/SOPs/publication_team.md">Publication Team →</a>
 
-⚡ <a href=""> Dev Team →</a>
+⚡ <a href="https://github.com/developer-student-club-uet/documentation/blob/master/SOPs/dev_team.md"> Dev Team →</a>
 <br>
-🏗 <a href="">Creative and Management Team →</a>
+🏗 <a href="https://github.com/developer-student-club-uet/documentation/blob/master/SOPs/creative_and_management_team.md">Creative and Management Team →</a>
 
 </div>
